@@ -1,6 +1,3 @@
-Here’s the rewritten code structure for your `README.md` file:
-
-```markdown
 # Calculator Application
 
 ## Overview
